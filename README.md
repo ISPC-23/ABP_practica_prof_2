@@ -1,10 +1,21 @@
-# Team Data Science Project Template
+# Tec. Superior en Ciencias de Datos e Inteligencia Artificial - ISPC
+## Práctica Profesionalizante II
+### Predicción Justa del Rendimiento Académico Estudiantil
 
-Esta plantilla es una implementación de la plantilla de proyecto de Team Data Science Process que actualmente se utiliza en el "Programa de Formación en Machine Learning y Data Science" en la Universidad Nacional de Colombia.
+#### Grupo Databring
+Project Manager: TEJEDA, Romina Soledad
 
-Esta plantilla proporciona las siguientes carpetas y archivos:
+Data Engineer: CABRERA, Marcos Rodrigo
 
-* `src`: acá debe ir el código o implementación del proyecto en Python.
-* `docs`: en esta carpeta se encuentran las plantillas de los documentos definidos en la metodología.
-* `scripts`: esta carpeta debe contener los scripts/notebooks que se ejecutarán.
-* `pyproject.toml`: archivo de definición del proyecto en Python.
+Data Scientist: BLASICHE, Andrés
+
+Ethical Reviewer: PALOMEQUE, Dalila Macarena
+
+#### Objetivo:
+Desarrollar un modelo predictivo basado en técnicas de regresión para estimar el rendimiento académico de estudiantes según sus hábitos diarios. Este modelo se diseñará con el propósito de ser la base para una futura aplicación que brinde recomendaciones personalizadas a estudiantes, ayudándolos a mejorar su desempeño. Además, se controlarán posibles sesgos por género y niveles de estrés, garantizando que las predicciones sean justas y equitativas.
+
+#### Project Charter
+[Link al Project Charter](docs/business_understanding/project_charter.md)
+
+#### Organización con Trello
+[Link a Trello](https://trello.com/b/uGAiwKkv/practica-profesionalizante-ii)
