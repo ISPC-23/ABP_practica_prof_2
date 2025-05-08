@@ -2,7 +2,7 @@
 
 ## Origen de los datos
 
-- [ ] Especificar la fuente de los datos y la forma en que se obtuvieron. 
+- [ ] Origen de los datos: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance/data
 
 ## Especificación de los scripts para la carga de datos
 
