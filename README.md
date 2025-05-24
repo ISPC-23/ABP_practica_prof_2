@@ -19,3 +19,6 @@ Desarrollar un modelo predictivo basado en técnicas de regresión para estimar 
 
 #### Organización con Trello
 [Link a Trello](https://trello.com/b/uGAiwKkv/practica-profesionalizante-ii)
+
+#### Notebook del Código
+[Link al Código](scripts/PracticaProfII.ipynb)
