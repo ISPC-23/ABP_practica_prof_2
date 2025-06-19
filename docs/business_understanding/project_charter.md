@@ -56,18 +56,20 @@ Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse d
 
 ## Stakeholders
 
-- Profesor
- Cargo: Coordinadora Académica
- Relación con el proyecto: Es la usuaria final del modelo predictivo. Colabora en la definición de los objetivos pedagógicos y evalúa la utilidad del modelo para el ámbito educativo.
- Expectativas: Espera recibir información clara y accionable sobre qué hábitos influyen en el rendimiento académico, para diseñar programas de mejora o intervención.
-- Estudiantes de nivel secundario
- Cargo: Sujetos del análisis / Beneficiarios
- Relación con el proyecto: Son las personas sobre las cuales se aplica el modelo predictivo. Sus datos son utilizados para entrenar y validar el sistema.
- Expectativas: Esperan recibir recomendaciones personalizadas que les ayuden a mejorar sus hábitos y, con ello, su rendimiento académico.
-- Equipo de Ciencia de Datos
- Cargo: Data Scientist, Data Engineer, Project Manager
- Relación con el proyecto: Son responsables del diseño, desarrollo, entrenamiento, validación y documentación del modelo predictivo.
- Expectativas: Desean desarrollar un modelo técnicamente sólido, interpretable y justo, que logre un impacto positivo y medible en la comunidad educativa.
+- **Profesor**
+**Cargo:** Coordinadora Académica  
+ **Relación con el proyecto:** Es la usuaria final del modelo predictivo. Colabora en la definición de los objetivos pedagógicos y evalúa la utilidad del modelo para el ámbito educativo.  
+ **Expectativas:** Espera recibir información clara y accionable sobre qué hábitos influyen en el rendimiento académico, para diseñar programas de mejora o intervención.  
+
+- **Estudiantes de nivel secundario**
+ **Cargo:** Sujetos del análisis / Beneficiarios  
+ **Relación con el proyecto:** Son las personas sobre las cuales se aplica el modelo predictivo. Sus datos son utilizados para entrenar y validar el sistema.  
+ **Expectativas:** Esperan recibir recomendaciones personalizadas que les ayuden a mejorar sus hábitos y, con ello, su rendimiento académico.
+
+- **Equipo de Ciencia de Datos**  
+ **Cargo:** Data Scientist, Data Engineer, Project Manager  
+ **Relación con el proyecto:** Son responsables del diseño, desarrollo, entrenamiento, validación y documentación del modelo predictivo.  
+ **Expectativas:** Desean desarrollar un modelo técnicamente sólido, interpretable y justo, que logre un impacto positivo y medible en la comunidad educativa.
 
 ## Aprobaciones
 
